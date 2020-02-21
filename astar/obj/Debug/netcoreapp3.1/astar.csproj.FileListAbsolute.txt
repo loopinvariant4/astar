@@ -1,0 +1,11 @@
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.exe
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.deps.json
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.runtimeconfig.json
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.runtimeconfig.dev.json
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.dll
+c:\code\repos\astar\astar\bin\Debug\netcoreapp3.1\astar.pdb
+c:\code\repos\astar\astar\obj\Debug\netcoreapp3.1\astar.csprojAssemblyReference.cache
+c:\code\repos\astar\astar\obj\Debug\netcoreapp3.1\astar.AssemblyInfoInputs.cache
+c:\code\repos\astar\astar\obj\Debug\netcoreapp3.1\astar.AssemblyInfo.cs
+c:\code\repos\astar\astar\obj\Debug\netcoreapp3.1\astar.dll
+c:\code\repos\astar\astar\obj\Debug\netcoreapp3.1\astar.pdb
